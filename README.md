@@ -18,7 +18,7 @@ npm start
 - [Vinicius Vieira](https://www.linkedin.com/in/viniciusvieirac/)
 - [Wesley Tuschi](https://github.com/wesley-tuschi)
 - [Marcos Vinicius Ranauro](https://github.com/MarcosRanauro)
-- [Diony Alcantara]([https://github.com/gabrielmatsuda17](https://github.com/dionyalcantara))
+- [Diony Alcantara](https://github.com/dionyalcantara)
 - [Thúlio Borba](https://github.com/thuliobrm)
 
 ### CSS in progress
@@ -42,7 +42,7 @@ npm start
 - [Vinicius Vieira](https://www.linkedin.com/in/viniciusvieirac/)
 - [Wesley Tuschi](https://github.com/wesley-tuschi)
 - [Marcos Vinicius Ranauro](https://github.com/MarcosRanauro)
-- [Diony Alcantara]([https://github.com/gabrielmatsuda17](https://github.com/dionyalcantara))
+- [Diony Alcantara](https://github.com/dionyalcantara)
 - [Thúlio Borba](https://github.com/thuliobrm)
 
 ### CSS em andamento
